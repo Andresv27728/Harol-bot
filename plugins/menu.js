@@ -113,7 +113,7 @@ let handler = async (m, { conn }) => {
     }
 };
 
-handler.help = ['menu'];
+handler.help = ['menu2'];
 handler.tags = ['info'];
 handler.command = ['menu', 'help'];
 
