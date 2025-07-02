@@ -77,10 +77,10 @@ global.author = 'Moi'
 
 // Cambia por el nombre de tu bot
 
-global.wm = 'Yume 💜' 
-global.botname = 'Yume'
+global.wm = '𝙎𝙃𝙊𝙔𝙊 𝙃𝙄𝙉𝘼𝙏𝘼 ოძ  𝘽 ꂦ Ꮏ' 
+global.botname = '𝙎𝙃𝙊𝙔𝙊 𝙃𝙄𝙉𝘼𝙏𝘼 ოძ  𝘽 ꂦ Ꮏ'
 global.vs = '2.2.1'
-global.dev = 'Moi'
+global.dev = 'Harold'
 global.copy = '© 2025'
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
